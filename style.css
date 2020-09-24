@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  text-align: center;
+  /* height: 100vw;
+  width: 100%; */
+}
+.wnd_map {
+  height: 95vh;
+  width: 100%;
+}
+button {
+  margin-top: 2px;
+  height: 36px;
+  width: 100px;
+}
+#header {
+  height: 40px;
+}
